@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color:white;
+}
+.container{
+    height: 400px;
+    width: 300px;
+    box-shadow:0 0 10px gold;
+    position: relative;
+    top:100px;
+    left:500px
+}
+.content{
+    position: relative;
+    top:100px;
+    left:20px
+}
